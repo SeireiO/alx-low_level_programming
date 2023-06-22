@@ -1,1 +1,1 @@
-This repository is for C learning
+This repository is for learning C
